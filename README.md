@@ -1,6 +1,10 @@
 # Fox-code
 
-An Online code editor like w3schools-try-it-editor and codepen
+An Online code editor like w3schools-try-it-editor and codepen<br>
+visit : https://fox-code.netlify.app/
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69063039/171986834-0e6a7e2b-e5d5-45e7-9b09-26fb537e3fb0.jpg)
+
 
 ## Getting Started
 
